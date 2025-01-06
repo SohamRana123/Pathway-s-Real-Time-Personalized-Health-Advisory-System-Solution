@@ -28,4 +28,4 @@ This project aims to develop a **Real-Time Personalized Health Advisory System**
 1. Clone the repository:
    ```bash
    git clone https://github.com/SohamRana123/Pathway-s-Real-Time-Personalized-Health-Advisory-System-Solution.git
-   cd repository
+   cd Pathway-s-Real-Time-Personalized-Health-Advisory-System-Solution
